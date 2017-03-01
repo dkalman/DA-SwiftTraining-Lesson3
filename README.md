@@ -1,4 +1,4 @@
-# Deloitte Academy iOS Training - Lesson 3
+# Deloitte Digital Academy iOS Training - Lesson 3
 *iOS -- Backend Integration, using Firebase*
 
 ## Install CocoPods:
